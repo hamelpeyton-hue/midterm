@@ -1,29 +1,32 @@
 /* styles.css */
-.gravitas-one-regular h1{
-  font-family: "Gravitas One", serif;
-  font-weight: 400;
-  font-style: normal;
+/* Entire Website */
+body{
+background-color:#FFF9D6;
+font-family:'Quicksand', sans-serif;
+  color:#D84315;
 }
-.gravitas-one-regular h2{
-  font-family: "Gravitas One", serif;
-  font-weight: 400;
-  font-style: normal;
+/* Main Heading */
+h1{
+  font-family:'Gravitas One', serif;
+  color:#C62828;
+  text-align:center;
+  font-size:52px;
+  margin-top:30px;
 }
-.gravitas-one-regular title{
-  font-family: "Gravitas One", serif;
-  font-weight: 400;
-  font-style: normal;
+/* Subheadings */
+h2{
+  font-family:'Gravitas One', serif;
+  color:#EF6C00;
+  font-size:30px;
+  margin-top:30px;
+}
+/* Paragraph */
+p{
+  font-size:20px;
+  line-height:1.7;
+}
+/* Lists */
+ul, ol{
+ font-size:20px;
 }
 
-.quicksand-<uniquifier> body{
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-.quicksand-<uniquifier> p{
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
