@@ -33,4 +33,11 @@ ul, ol{
 .container{
   padding:30px;
 }
+/* Image */
 
+img{
+    display:block;
+    width:70%;
+    margin:25px auto;
+    border-radius:15px;
+}
