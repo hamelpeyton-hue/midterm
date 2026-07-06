@@ -29,4 +29,8 @@ p{
 ul, ol{
  font-size:20px;
 }
+/* Bootstrap Container */
+.container{
+  padding:30px;
+}
 
