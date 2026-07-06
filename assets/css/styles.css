@@ -21,3 +21,9 @@
   font-weight: <weight>;
   font-style: normal;
 }
+.quicksand-<uniquifier> p{
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
